@@ -1,4 +1,4 @@
-name := """minimal-java"""
+name := """akkademy-db"""
 
 version := "1.0"
 
